@@ -1,2 +1,2 @@
 # kyberturvakirja.github.io
-Kyberturvakirjan verkkosivusto
+[Kyberturvakirjan](https://github.com/kyberturvakirja/kyberturvakirja) verkkosivusto.
