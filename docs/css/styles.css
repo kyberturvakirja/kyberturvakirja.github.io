@@ -317,6 +317,7 @@ figure {
 img,
 svg {
   vertical-align: middle;
+  max-width: 80vw;
 }
 
 table {
