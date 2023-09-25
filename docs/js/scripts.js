@@ -52,6 +52,7 @@ window.addEventListener('DOMContentLoaded', event => {
         }
         let output = "Ladattu " + sum.toLocaleString('fi') + " kertaa"
         document.getElementById('download').innerHTML = output;
+        document.getElementById('download').style.display = "block";
     };
     request.send();
 
